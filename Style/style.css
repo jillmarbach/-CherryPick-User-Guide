@@ -147,6 +147,10 @@ img[src^="list-1.PNG"] {
 	padding-bottom: 0;
 }
 
+img[src^="date-cycle.gif"] {
+	max-width: 52rem;
+}
+
 .small img {
 	max-height: 20rem;
 }
