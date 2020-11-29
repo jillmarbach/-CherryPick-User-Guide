@@ -89,7 +89,7 @@ h1 {
 .user-guide {
 	text-align: center;
 	margin: 0 auto;
-	font-family: 'Nunito', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 1.5rem;
 }
 
@@ -117,14 +117,14 @@ ol {
 
 p {
 	margin: 0 auto;
-	font-family: 'Nunito', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 1.75rem;
 	text-indent: 4rem;
 	line-height: 1.75;
 }
 
 .styled-ul {
-	font-family: 'Nunito', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 1.75rem;
 	list-style-type: circle;
 }
@@ -398,6 +398,9 @@ button:hover {
 	max-height: 100%;
 }
 
+.bunch {
+	font-style: italic;
+}
 /* 
 .stickies {
 	display: grid;
